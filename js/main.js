@@ -1,7 +1,6 @@
 Vue.component('product', {
   templet:
 })
-
 var app = new Vue({
   el: '#app',
   data: {
