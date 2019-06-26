@@ -7,7 +7,7 @@ var app = new Vue({
     brand: 'Vue Mastery',
     product: 'Socks',
     selectedVariant: 0,
-    details: ["80% cotton", "20% polyester", "Gender-neutral"],
+    details: ["85% cotton", "20% polyester", "Gender-neutral"],
     variants: [
       {
         variantId: 2234,
